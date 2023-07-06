@@ -1,0 +1,31 @@
+.card {
+    border-radius: 22px;  
+    background-color: white;
+    width: 235px;
+    padding: 10px;
+    margin-bottom: 20px;
+
+    text-align: center;
+    border: 2px solid #837d7d;
+}
+  
+.card h3 {
+    color: black;
+    font-size: 19px;
+    margin-bottom: 13px;
+    margin-top: 10px;
+}
+  
+.card p {
+    color: #3a3838;
+    font-size: 12px;
+}
+.color-lightblue{
+     background-color: #c9ddef;
+}
+.color-lightgreen{
+    background-color: #bcdbbc;
+}
+
+
+
